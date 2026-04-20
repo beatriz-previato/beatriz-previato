@@ -1,3 +1,13 @@
+<img
+    align="center"
+    alt="banner"
+    title="banner"
+    height="150"
+    width="100%"
+    style="padding-right: 10px;"
+    src="https://i.pinimg.com/1200x/7d/cd/27/7dcd2782b0e40cc46727c6b8f0d2bfb2.jpg"
+/> 
+
 # 👩🏻‍💻Beatriz Previato 
 
 **`Desenvolvedora em formação`**
@@ -6,11 +16,17 @@ Me chamo Beatriz Previato de Jesus, tenho 20 anos e sou natural de são paulo. S
 
 Sou apaixonada por técnologia e tenho interesse na área de desenvolvimento back-end. Aqui você encontrará meus projetos, estudos e experimentações na área de tecnologia!
 
-<p align="left">
-      <a href="https://github.com/beatriz-prevato?tab=followers">
-         <img alt="Seguidores" title="Me Siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/beatriz-previato?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
-      <a href="https://github.com/beatriz-previato?tab=repositories&sort=stargazers">
-         <img alt="Total de Estrelas" title="Total de Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/beatriz-previato?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+<a href="https://www.linkedin.com/in/beatriz-previato-de-jesus-4376b5333/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://wa.me/5511998699796" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="mailto:beatrizpreviato172831@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
   
 ---
 
@@ -57,11 +73,12 @@ Sou apaixonada por técnologia e tenho interesse na área de desenvolvimento bac
 
 ### 📊 Estatísticas 
 
-<div>
+<div><p align="left">
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="343px"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=beatriz-previato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
@@ -70,13 +87,11 @@ Sou apaixonada por técnologia e tenho interesse na área de desenvolvimento bac
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      width="300px"
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-previato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </div>
-
-<div style="clear: both;"></div>
-
 
 
 
