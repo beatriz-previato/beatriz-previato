@@ -5,7 +5,7 @@
     height="150"
     width="100%"
     style="padding-right: 10px;"
-    src="https://i.pinimg.com/1200x/7d/cd/27/7dcd2782b0e40cc46727c6b8f0d2bfb2.jpg"
+    src="https://i.pinimg.com/1200x/a8/2b/98/a82b98d24d379af639511fccf4a902ed.jpg"
 /> 
 
 # 👩🏻‍💻Beatriz Previato 
